@@ -368,8 +368,3 @@ latest
 
 **Arun Padmanabhan**
 
-GitHub:
-https://github.com/Arun-padmanabhan-devops
-
-Docker Hub:
-https://hub.docker.com/r/aruncloudeng/weather-app-cicd
