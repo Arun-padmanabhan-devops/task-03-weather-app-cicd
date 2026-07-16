@@ -1,0 +1,5 @@
+.git
+.github
+README.md
+#This prevents unnecessary files from being copied into the Docker image.
+
