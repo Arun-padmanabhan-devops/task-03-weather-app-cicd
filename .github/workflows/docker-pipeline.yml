@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - main
-
+    paths-ignore:
+      - "README.md"
+      - "*.md"
 env:
   IMAGE_NAME: weather-app-cicd
 
